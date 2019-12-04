@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-                        <string>http://118.212.133.46:8101/fk/file/soft/180x180.png</string>
+                        <string>http://118.212.133.46:8101/fk/file/soft/new/icon180.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://118.212.133.46:8101/fk/file/soft/60x60.png</string>
+					<string>http://118.212.133.46:8101/fk/file/soft/new/icon60.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
